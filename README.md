@@ -26,6 +26,22 @@ implementation 'com.github.kiselyv77:TransformingPager:1.0'
 💥Usage
 ------
 
+```kotlin
+TransformingHorizontalPager(
+        count = 100,
+        pagerType = PagerType.Cube
+    ) { page ->
+        //Content
+  }
+  
+  TransformingVerticalPager(
+        count = 100,
+        pagerType = PagerType.Rotate(rotationValue = 45f)
+    ) { page ->
+        //Content
+  }
+```
+
  ## 🤝 License
 ```
 The MIT License
