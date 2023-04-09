@@ -1,6 +1,20 @@
-# TransformingPager
-Compose pager with effects
 
+
+
+<p align="center">
+ 
+ <h2 align="center">Compose TransformingPager.</h2>
+ <p align="center"><b>Compose pager with effects.</b></p>
+ <p align="center">
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Cube.gif"align="center"/>
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Flip.gif"align="center"/>
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Rotate.gif"align="center"/>
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Zoom.gif"align="center"/>
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Compression.gif"align="center"/>
+    <img width="150px" src="https://github.com/kiselyv77/TransformingPager/blob/master/gifs/Scale.gif"align="center"/>
+</p>
+ 
+</p>
 
 🛠Gradle
 ------
