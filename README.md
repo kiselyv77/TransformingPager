@@ -19,7 +19,7 @@ dependencyResolutionManagement {
 gradle.app
 ```gradle
 dependencies {
-implementation ''
+implementation 'com.github.kiselyv77:TransformingPager:1.0'
 }
 ```
 
